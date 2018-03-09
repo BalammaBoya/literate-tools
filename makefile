@@ -5,7 +5,7 @@ VER_BRANCH=build-release
 VER_FILE=VERSION
 
 ORG_MODE_DIR=~/emacs/lisp
-LITERATE_TOOLS="https://github.com/vlead/literate-tools.git"
+LITERATE_TOOLS="https://github.com/BalammaBoya/literate-tools.git"
 LITERATE_DIR=literate-tools
 DEFAULT=default
 READTHEORG=readtheorg
